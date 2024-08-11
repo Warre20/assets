@@ -234,5 +234,14 @@
       "tags": ["Meme"],
       "about": "SEIS, the fastest AI memecoin on the fastest blockchain SEI EVM V2 network."
     }
+        {
+      "chainId": 1329,
+      "address": "0xb407F0BA82640Aa9fdA1e780BA7ae6e7979Bf98c",
+      "decimals": 18,
+      "name": "Stonks on Sei",
+      "symbol": "STONKS",
+      "tags": ["Meme"],
+      "about": ""
+    },
   ]
 }
